@@ -324,7 +324,7 @@ from rich import pretty
 from rich.text import Text as tekz
 import os
 try:
-import rich
+        import rich
 except ImportError:
         cetak(nel('\t• جـاࢪي التشـغيل انتظࢪ قليلاً... •'))
         os.system('pip install rich')
