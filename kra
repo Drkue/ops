@@ -168,7 +168,7 @@ def chk():
  
 
       time.sleep(1) 
-except: 
+  except: 
 
     sys.exit() 
 
