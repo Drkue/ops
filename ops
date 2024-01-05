@@ -710,7 +710,10 @@ def passwrd():
                     pass
                 else:
                     pwv.append(nmf)
-                    pwv.append(frs + frs)
+                    pwv.append(frs + 123)
+                    pwv.append(frs + 1234)
+                    pwv.append(frs + 12345)
+                    pwv.append(frs + @@@)
                     pwv.append(frs + ' ' + frs)
                     pwv.append('١٢٣٤٥٦')
                     pwv.append('١٢٣٤٥٦٧٨٩')
@@ -740,7 +743,10 @@ def passwrd():
                 pwv.append(nmf)
             else:
                 pwv.append(nmf)
-                pwv.append(frs + frs)
+                pwv.append(frs + 123)
+                pwv.append(frs + 1234)
+                pwv.append(frs + 12345)
+                pwv.append(frs + @@@)
                 pwv.append(frs + ' ' + frs)
                 pwv.append('١٢٣٤٥٦')
                 pwv.append('١٢٣٤٥٦٧٨٩')
